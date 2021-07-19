@@ -36,7 +36,7 @@ res.json(Savednotetext[Number(req.params.id)]);
 app.get("*", function(req, res) {    
 res.sendFile(path.join(__dirname, '/public/index.html'));
             });
-
+//Req.body is the data that is parsed ;
 app.post("/api/notes", function(req, res) {
     let Savednotetext = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
     let newNote = req.body;
