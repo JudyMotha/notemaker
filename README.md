@@ -6,5 +6,5 @@
 *  Deployed HEROKU link   https://intense-plateau-60002.herokuapp.com/
 *  GH Pages: https://judymotha.github.io/notemaker/
 
-Visual 
+# Visual 
 <img src="./Notemaker.gif">
