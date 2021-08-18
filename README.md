@@ -3,7 +3,8 @@
 * Challenges -Heroku installation which hit multiple roadblocks.
 * Thanks to my instructor for working with me on the Heroku installation , BCSLA support for giving me alternate ideas to deploy app other than the class material provided ;Thanks to my tutor Alexis San Javier who helped me on this homework and deployment .
 * Technology:HTML ,CSS,JS ,Node package manager ;  Express and Nodemon installed in package json
-*  Deployed link   https://intense-plateau-60002.herokuapp.com/
+*  Deployed HEROKU link   https://intense-plateau-60002.herokuapp.com/
+*  GH Pages: https://judymotha.github.io/notemaker/
 
 Visual 
 <img src="./Notemaker.gif">
