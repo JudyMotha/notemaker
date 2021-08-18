@@ -7,5 +7,5 @@
 *  GH Pages: https://judymotha.github.io/notemaker/
 
 # Visual :
-<img src-"/NY.PNG">
+<img src-"./NY.PNG">
 <img src="./Notemaker.gif">
