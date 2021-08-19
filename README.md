@@ -5,6 +5,7 @@
 * Technology:HTML ,CSS,JS ,Node package manager ;  Express and Nodemon installed in package json;First activity to use HEROKU
 *  Deployed HEROKU link   https://intense-plateau-60002.herokuapp.com/
 *  GH Pages: https://judymotha.github.io/notemaker/
+*  Github link:https://github.com/JudyMotha/notemaker
 
 # Visual :Screenshots &GIF
 <img src="./NT.PNG">
