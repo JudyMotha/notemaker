@@ -7,7 +7,3 @@
 *  GH Pages: https://judymotha.github.io/notemaker/
 *  Github link:https://github.com/JudyMotha/notemaker
 
-# Visual :Screenshots &GIF
-<img src="./NT.PNG">
-<img src="./Notekaeragain.JPG">
-<img src="./Notemaker.gif">
